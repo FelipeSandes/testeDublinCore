@@ -1,2 +1,2 @@
-filename;dc.title;dc.type;dc.provenance;dc.description;dc.format;dc.source;dc.rights
-objects/examplo.pdf;Exemplo;Tipo;;;;;Condição de Acesso ou é outra coisa
+"filename","dc.type","dc.provenance","dc.description","dc.format","dc.source","dc.rights"
+"objects/examplo.pdf","Tipo","Teste","Descricao","Formato","TesteS","Acesso"
